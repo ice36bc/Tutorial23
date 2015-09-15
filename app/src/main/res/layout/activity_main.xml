@@ -11,6 +11,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="thenewboston"
         android:id="@+id/textView"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="199dp" />
 </RelativeLayout>
